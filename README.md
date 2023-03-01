@@ -1,7 +1,7 @@
 # CountryFlagAndName
 A small country research application with the help of pure javascript codes and xmlhttp
 
-#Api
+# Api
 This is a JavaScript code that fetches country data from the "https://restcountries.com" API and displays it on a webpage.
 
 The code listens for a click event on a search button and then calls the getCountry() function, passing the value of the search input field as a parameter.
